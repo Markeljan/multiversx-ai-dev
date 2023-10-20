@@ -2,6 +2,8 @@
 
 Built for Encode x Multiversx Hackathon Project
 
+Youtube Demo: [https://www.youtube.com/watch?v=IX8RGU0Qpss](https://www.youtube.com/watch?v=IX8RGU0Qpss)
+
 <img width="696" alt="image" src="https://github.com/Markeljan/multiversx-ai-dev/assets/12901349/80c617df-ef70-425f-87b5-49757b68ab1a">
 
 <img width="1204" alt="image" src="https://github.com/Markeljan/multiversx-ai-dev/assets/12901349/39bd6012-ce82-41f0-b7b4-dc71dac272a2">
