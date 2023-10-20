@@ -1,6 +1,6 @@
 # multiversx-ai-dev ChatGPT Plugin
 
-Built for Encode x Multiversx Hackathon Project
+Compile and Deploy Rust smart contracts to MultiversX Devnet directly from Chat GPT.
 
 Youtube Demo: [https://www.youtube.com/watch?v=IX8RGU0Qpss](https://www.youtube.com/watch?v=IX8RGU0Qpss)
 
@@ -45,5 +45,7 @@ cargo run
 
 ```
 <img width="802" alt="Screenshot 2023-10-20 at 4 13 08 AM" src="https://github.com/Markeljan/multiversx-ai-dev/assets/12901349/2cfa88c7-05c4-4136-9c51-1f78ffee1e2d">
+
+Built for Encode x Multiversx Hackathon
 
 
