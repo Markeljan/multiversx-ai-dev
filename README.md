@@ -30,6 +30,8 @@ Response: Outputs a string message confirming the successful deployment of the c
 Rust, Rocket, mxpy cli tool, chatGPT
 
 ## Getting Started:
+create /wallet folder in root dir
+geenrate wallet-owner.pem file
 
 clone repo, cd to chatgpt-plugin
 ```
