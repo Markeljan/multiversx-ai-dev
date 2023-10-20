@@ -7,11 +7,11 @@ The Multiversx Developer Plugin is crafted to cater to developers working with M
 [Youtube Demo](https://www.youtube.com/watch?v=IX8RGU0Qpss) | 
 [Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vRuhj8WIume_RU2DsLX5-BDJAkHTTuZAcahAGa3tyLjflp6klE2fB4jNPwe277DI1qG0E5oiEsmvPMN/pub?start=false&loop=false&delayms=3000)
 
-<img width="696" alt="image" src="https://github.com/Markeljan/multiversx-ai-dev/assets/12901349/80c617df-ef70-425f-87b5-49757b68ab1a">
+<img width="600" alt="image" src="https://github.com/Markeljan/multiversx-ai-dev/assets/12901349/80c617df-ef70-425f-87b5-49757b68ab1a">
 
 ## Compile
 
-<img width="843" alt="Screenshot 2023-10-20 at 5 06 52 AM" src="https://github.com/Markeljan/multiversx-ai-dev/assets/12901349/9a3ad832-d331-468a-b2c9-ff2b327bb99c">
+<img width="600" alt="Screenshot 2023-10-20 at 5 06 52 AM" src="https://github.com/Markeljan/multiversx-ai-dev/assets/12901349/9a3ad832-d331-468a-b2c9-ff2b327bb99c">
 
 Endpoint: /compile
 Method: POST
@@ -21,7 +21,8 @@ Response: Returns a string message indicating the success of the compilation or 
 
 ## Deploy
 
-![smallergif](https://github.com/Markeljan/multiversx-ai-dev/assets/12901349/e66df1cc-6780-43d8-a22e-1bc81eca0669)
+![image](https://github.com/Markeljan/multiversx-ai-dev/assets/12901349/f9b1c82e-cb66-4653-bf1c-ce1523c07247)
+
 
 Endpoint: /deploy
 Method: GET
@@ -38,7 +39,7 @@ cargo run
 ```
 install custom ChatGPT plugin to localhost:8000 (requires special access)
 
-<img width="802" alt="Screenshot 2023-10-20 at 4 13 08 AM" src="https://github.com/Markeljan/multiversx-ai-dev/assets/12901349/2cfa88c7-05c4-4136-9c51-1f78ffee1e2d">
+<img width="600" alt="Screenshot 2023-10-20 at 4 13 08 AM" src="https://github.com/Markeljan/multiversx-ai-dev/assets/12901349/2cfa88c7-05c4-4136-9c51-1f78ffee1e2d">
 
 
 ### Built With
