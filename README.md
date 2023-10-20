@@ -27,12 +27,9 @@ Description: Enables users to deploy the most recently compiled smart contract t
 Response: Outputs a string message confirming the successful deployment of the contract or an error message if the deployment process encounters an issue.
 
 ### Built With
-Language: Rust
-Tools: mxpy CLI
-Conclusion
-The Multiversx Developer Plugin is a testament to the evolving landscape of blockchain development. Through the integration of Rust and the mypx CLI tool, we aim to provide developers with an efficient and user-friendly experience when working with Multiversx smart contracts. Join us in this journey and explore the endless possibilities that this plugin brings to the table!
+Rust, Rocket, mxpy cli tool, chatGPT
 
-## How to build it:
+## Getting Started:
 ```
 // clone repo, cd to chatgpt-plugin
 cargo run
