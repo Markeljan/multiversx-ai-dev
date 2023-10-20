@@ -4,9 +4,9 @@ Built for Encode x Multiversx Hackathon Project
 
 <img width="696" alt="image" src="https://github.com/Markeljan/multiversx-ai-dev/assets/12901349/80c617df-ef70-425f-87b5-49757b68ab1a">
 
-<img width="696" alt="image" src="https://github.com/Markeljan/multiversx-ai-dev/assets/12901349/494e2b41-a22d-4591-90ab-fdef683093c0">
-
 <img width="1204" alt="image" src="https://github.com/Markeljan/multiversx-ai-dev/assets/12901349/39bd6012-ce82-41f0-b7b4-dc71dac272a2">
+
+<img width="802" alt="Screenshot 2023-10-20 at 4 13 08 AM" src="https://github.com/Markeljan/multiversx-ai-dev/assets/12901349/2cfa88c7-05c4-4136-9c51-1f78ffee1e2d">
 
 ## Welcome to the Multiversx Developer Plugin, a cutting-edge solution for the Encode x Multiversx Hackathon. 
 
