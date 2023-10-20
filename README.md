@@ -8,13 +8,9 @@ Youtube Demo: [https://www.youtube.com/watch?v=IX8RGU0Qpss](https://www.youtube.
 
 <img width="1204" alt="image" src="https://github.com/Markeljan/multiversx-ai-dev/assets/12901349/39bd6012-ce82-41f0-b7b4-dc71dac272a2">
 
-## Welcome to the Multiversx Developer Plugin, a cutting-edge solution for the Encode x Multiversx Hackathon. 
-
-This project showcases an intuitive plugin designed to streamline the process of compiling and deploying smart contracts for Multiversx.  ChatGPT plugin built with Rust!
-
 ### Overview
 
-The Multiversx Developer Plugin is crafted to cater to developers working with Multiversx smart contracts. Previously known as Elrond, Multiversx has made a significant impact in the blockchain sphere. To further enhance the developer experience, this plugin is built using the Rust programming language and leverages the robust capabilities of the mypx CLI tool for seamless compilation and deployment operations.
+The Multiversx Developer Plugin is crafted to cater to developers working with Multiversx smart contracts. Previously known as Elrond, Multiversx has made a significant impact in the blockchain sphere. To further enhance the developer experience, this plugin is built using the Rust programming language and leverages the robust capabilities of the mypx CLI tool for seamless compilation and deployment operations. Chat GPT Plugin written entirely in Rust 😎 (first time ruster).
 
 ### Features
 
