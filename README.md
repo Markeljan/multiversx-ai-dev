@@ -6,8 +6,6 @@ Built for Encode x Multiversx Hackathon Project
 
 <img width="1204" alt="image" src="https://github.com/Markeljan/multiversx-ai-dev/assets/12901349/39bd6012-ce82-41f0-b7b4-dc71dac272a2">
 
-<img width="802" alt="Screenshot 2023-10-20 at 4 13 08 AM" src="https://github.com/Markeljan/multiversx-ai-dev/assets/12901349/2cfa88c7-05c4-4136-9c51-1f78ffee1e2d">
-
 ## Welcome to the Multiversx Developer Plugin, a cutting-edge solution for the Encode x Multiversx Hackathon. 
 
 This project showcases an intuitive plugin designed to streamline the process of compiling and deploying smart contracts for Multiversx.  ChatGPT plugin built with Rust!
@@ -29,15 +27,21 @@ Endpoint: /deploy
 Method: GET
 Description: Enables users to deploy the most recently compiled smart contract to the Multiversx network.
 Response: Outputs a string message confirming the successful deployment of the contract or an error message if the deployment process encounters an issue.
-Getting Started
-Ensure you have the mxpy CLI tool installed on your system.
-Clone the repository and navigate to the project directory.
-Start the server: npm start (Make sure the server runs on http://localhost:8000/api).
-Use the provided endpoints to compile and deploy your smart contracts.
 
 ### Built With
 Language: Rust
 Tools: mxpy CLI
 Conclusion
 The Multiversx Developer Plugin is a testament to the evolving landscape of blockchain development. Through the integration of Rust and the mypx CLI tool, we aim to provide developers with an efficient and user-friendly experience when working with Multiversx smart contracts. Join us in this journey and explore the endless possibilities that this plugin brings to the table!
+
+## How to build it:
+```
+// clone repo, cd to chatgpt-plugin
+cargo run
+
+// install custom ChatGPT plugin to localhost:8000 (requires special access)
+
+```
+<img width="802" alt="Screenshot 2023-10-20 at 4 13 08 AM" src="https://github.com/Markeljan/multiversx-ai-dev/assets/12901349/2cfa88c7-05c4-4136-9c51-1f78ffee1e2d">
+
 
