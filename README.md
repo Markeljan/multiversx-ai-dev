@@ -30,13 +30,13 @@ Response: Outputs a string message confirming the successful deployment of the c
 Rust, Rocket, mxpy cli tool, chatGPT
 
 ## Getting Started:
+
+clone repo, cd to chatgpt-plugin
 ```
-// clone repo, cd to chatgpt-plugin
 cargo run
-
-// install custom ChatGPT plugin to localhost:8000 (requires special access)
-
 ```
+install custom ChatGPT plugin to localhost:8000 (requires special access)
+
 <img width="802" alt="Screenshot 2023-10-20 at 4 13 08 AM" src="https://github.com/Markeljan/multiversx-ai-dev/assets/12901349/2cfa88c7-05c4-4136-9c51-1f78ffee1e2d">
 
 Built for Encode x Multiversx Hackathon
