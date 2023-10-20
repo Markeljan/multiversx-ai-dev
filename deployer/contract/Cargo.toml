@@ -1,0 +1,13 @@
+[package]
+name = "contract"
+version = "0.0.0"
+authors = [ "you",]
+edition = "2018"
+publish = false
+
+[lib]
+path = "src/contract.rs"
+
+[dependencies]
+multiversx-sc = { version = "0.43.3" }
+
